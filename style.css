@@ -196,7 +196,7 @@ body {
 }
 
 .top-rus{
-	display: none;
+	display: flex;
 }
 
 .top-eng {
@@ -228,7 +228,7 @@ body {
 }
 
 .bottom-rus {
-	display: none;
+	display: flex;
 }
 
 .bottom-rus-shift{
