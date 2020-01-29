@@ -47,6 +47,8 @@ function change() {
 	}
 }
 
+change();
+
 // printing and check for CAPS, SHIFT, ALT CTRL
 function print(event) { 	
 
